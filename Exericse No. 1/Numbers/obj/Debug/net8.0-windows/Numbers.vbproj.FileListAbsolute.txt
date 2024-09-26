@@ -1,0 +1,16 @@
+C:\Users\Collin Joe\source\repos\Numbers\Numbers\obj\Debug\net8.0-windows\Numbers.Form1.resources
+C:\Users\Collin Joe\source\repos\Numbers\Numbers\obj\Debug\net8.0-windows\Numbers.vbproj.GenerateResource.cache
+C:\Users\Collin Joe\source\repos\Numbers\Numbers\obj\Debug\net8.0-windows\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Collin Joe\source\repos\Numbers\Numbers\obj\Debug\net8.0-windows\Numbers.AssemblyInfoInputs.cache
+C:\Users\Collin Joe\source\repos\Numbers\Numbers\obj\Debug\net8.0-windows\Numbers.AssemblyInfo.vb
+C:\Users\Collin Joe\source\repos\Numbers\Numbers\obj\Debug\net8.0-windows\Numbers.vbproj.CoreCompileInputs.cache
+C:\Users\Collin Joe\source\repos\Numbers\Numbers\bin\Debug\net8.0-windows\Numbers.exe
+C:\Users\Collin Joe\source\repos\Numbers\Numbers\bin\Debug\net8.0-windows\Numbers.deps.json
+C:\Users\Collin Joe\source\repos\Numbers\Numbers\bin\Debug\net8.0-windows\Numbers.runtimeconfig.json
+C:\Users\Collin Joe\source\repos\Numbers\Numbers\bin\Debug\net8.0-windows\Numbers.dll
+C:\Users\Collin Joe\source\repos\Numbers\Numbers\bin\Debug\net8.0-windows\Numbers.pdb
+C:\Users\Collin Joe\source\repos\Numbers\Numbers\obj\Debug\net8.0-windows\Numbers.dll
+C:\Users\Collin Joe\source\repos\Numbers\Numbers\obj\Debug\net8.0-windows\refint\Numbers.dll
+C:\Users\Collin Joe\source\repos\Numbers\Numbers\obj\Debug\net8.0-windows\Numbers.pdb
+C:\Users\Collin Joe\source\repos\Numbers\Numbers\obj\Debug\net8.0-windows\Numbers.genruntimeconfig.cache
+C:\Users\Collin Joe\source\repos\Numbers\Numbers\obj\Debug\net8.0-windows\ref\Numbers.dll

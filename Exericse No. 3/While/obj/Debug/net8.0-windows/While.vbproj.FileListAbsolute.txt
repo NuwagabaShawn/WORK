@@ -1,0 +1,16 @@
+C:\Users\Collin Joe\source\repos\While\While\bin\Debug\net8.0-windows\While.exe
+C:\Users\Collin Joe\source\repos\While\While\bin\Debug\net8.0-windows\While.deps.json
+C:\Users\Collin Joe\source\repos\While\While\bin\Debug\net8.0-windows\While.runtimeconfig.json
+C:\Users\Collin Joe\source\repos\While\While\bin\Debug\net8.0-windows\While.dll
+C:\Users\Collin Joe\source\repos\While\While\bin\Debug\net8.0-windows\While.pdb
+C:\Users\Collin Joe\source\repos\While\While\obj\Debug\net8.0-windows\While.Form1.resources
+C:\Users\Collin Joe\source\repos\While\While\obj\Debug\net8.0-windows\While.vbproj.GenerateResource.cache
+C:\Users\Collin Joe\source\repos\While\While\obj\Debug\net8.0-windows\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Collin Joe\source\repos\While\While\obj\Debug\net8.0-windows\While.AssemblyInfoInputs.cache
+C:\Users\Collin Joe\source\repos\While\While\obj\Debug\net8.0-windows\While.AssemblyInfo.vb
+C:\Users\Collin Joe\source\repos\While\While\obj\Debug\net8.0-windows\While.vbproj.CoreCompileInputs.cache
+C:\Users\Collin Joe\source\repos\While\While\obj\Debug\net8.0-windows\While.dll
+C:\Users\Collin Joe\source\repos\While\While\obj\Debug\net8.0-windows\refint\While.dll
+C:\Users\Collin Joe\source\repos\While\While\obj\Debug\net8.0-windows\While.pdb
+C:\Users\Collin Joe\source\repos\While\While\obj\Debug\net8.0-windows\While.genruntimeconfig.cache
+C:\Users\Collin Joe\source\repos\While\While\obj\Debug\net8.0-windows\ref\While.dll
